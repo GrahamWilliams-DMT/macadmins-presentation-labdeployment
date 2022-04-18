@@ -34,7 +34,7 @@ A list of resources, or handy links for technologies, scripts, and other things.
 
 ## Scripts
 
-- [GitHub: Brunderd - Auto Logon](https://docs.jamf.com/10.37.0/jamf-pro/documentation/Scripts.html)
+- [GitHub: Brunerd - Auto Logon](https://github.com/brunerd/macAdminTools/blob/main/Jamf/scripts/setAutoLogin.jamf.sh)
 - [GitHub: Rocketman-Tech - Onboarding with DEPNotify](https://github.com/Rocketman-Tech/Onboarding-With-DEPNotify)
 
 ## Software
