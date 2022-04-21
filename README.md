@@ -47,7 +47,7 @@ A list of resources, or handy links for technologies, scripts, and other things.
 
 ### Blog Posts
 
-- [Rocketman.tect: Creating Magic with Endpoint Provisioning](https://www.rocketman.tech/post/creating-magic-with-endpoint-provisioning-part-1-the-ta-da-of-depnotify)
+- [Rocketman.tech: Creating Magic with Endpoint Provisioning](https://www.rocketman.tech/post/creating-magic-with-endpoint-provisioning-part-1-the-ta-da-of-depnotify)
 - [MacAdmins Meeting - April 2022](https://apple.lib.utah.edu/april-2022-macadmins-meeting/)
 
 ### Other Resources
