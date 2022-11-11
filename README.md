@@ -1,6 +1,6 @@
 # Deploying & Managing Mac's in a Lab Environment
 
-A copy of the presentation, and links to resources from [MacAdmins - Deploying & Managing Macs in Lab Environment](https://apple.lib.utah.edu/april-2022-macadmins-meeting/) talk, based on my Jamf Deployment blog post series: https://blog.grayw.co.uk/tag/jamf-deployment-series/
+A copy of the presentation, and links to resources from [MacAdmins - Deploying & Managing Macs in Lab Environment](https://apple.lib.utah.edu/april-2022-macadmins-meeting/) talk, based on my Jamf Deployment blog post series: https://irritatedsysadmin.substack.com/p/fully-automated-lab-imac-deployment-with-jamf-pro-ade-part-6-post-series-summary
 
 
 ## Description
